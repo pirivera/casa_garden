@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🪴 Pedro Ivan Rivera",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -31,14 +31,14 @@ const config: QuartzConfig = {
           light: "#eed9c4",
           lightgray: "#d9b99b",
           gray: "#b8b8b8",
-          darkgray: "#891111",
+          darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
+          light: "#d9b99b",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
