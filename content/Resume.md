@@ -2,6 +2,7 @@
 title: Resume
 ---
 ### Work Experience
+---
 #### ITCon Inc.
 *Help Desk Technician*
 *Feb. 2022 - Present*
@@ -10,3 +11,4 @@ title: Resume
 - Proficiency in documenting processes, issues, and solutions which led to the increased Knowledge Base of clients.
 - Utilized technical tools such as Fortigate, ConnectWise, Hexnode, BusinessCare, and ItGlue to streamline operations and enhance technical support services.
 - Delivered remote assistance utilizing remote tools and effective communication to comprehend and resolve customer concerns.
+---
