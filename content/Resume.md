@@ -12,3 +12,19 @@ title: Resume
 > - Utilized technical tools such as Fortigate, ConnectWise, Hexnode, BusinessCare, and ItGlue to streamline operations and enhance technical support services.
 >- Delivered remote assistance utilizing remote tools and effective communication to comprehend and resolve customer concerns.
 ---
+### Education
+##### Farmingdale State College
+*Bachelors Degree in Computer Security Technology*
+*Ongoing*
+##### Nassau Community College
+*Graduated 2021*
+*Associates in Information Technology and Certificate in Cybersecurity*
+
+---
+#### Professional IT Certifications
+##### CompTIA A+
+*April 2022*
+##### CompTIA Network+
+*December 2023*
+##### CompTIA Security+
+*Ongoing*
