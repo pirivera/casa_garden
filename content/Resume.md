@@ -1,8 +1,8 @@
 ---
 title: Resume
 ---
-#### Work Experience
-##### ITCon Inc.
+<h1>Work Experience</h1>
+<h2>ITCon Inc.</h2>
 *Help Desk Technician*
 *Feb. 2022 - Present*
 - Delivered positive client experiences by handling incoming customer calls, and offering prompt and friendly assistance, resulting in lasting relationships and building rapport with familiar clients, ensuring client satisfaction.
