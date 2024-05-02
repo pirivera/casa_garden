@@ -17,14 +17,14 @@ title: Resume
 >*Bachelors Degree in Computer Security Technology* \
 *Ongoing*
 ##### Nassau Community College
->*Graduated 2021*
+>*Graduated 2021* \
 *Associates in Information Technology and Certificate in Cybersecurity*
 
 ---
 #### Professional IT Certifications
 ##### CompTIA A+
-*April 2022*
+\ *April 2022*
 ##### CompTIA Network+
-*December 2023*
+\ *December 2023*
 ##### CompTIA Security+
-*Ongoing*
+\ *Ongoing*
