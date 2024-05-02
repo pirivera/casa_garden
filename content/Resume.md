@@ -3,7 +3,7 @@ title: Resume
 ---
 ### Work Experience
 ---
-#### ITCon Inc.
+### ITCon Inc.
 *Help Desk Technician*
 *Feb. 2022 - Present*
 
