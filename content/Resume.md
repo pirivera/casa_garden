@@ -14,10 +14,10 @@ title: Resume
 ---
 ### Education
 ##### Farmingdale State College
-*Bachelors Degree in Computer Security Technology*
+>*Bachelors Degree in Computer Security Technology*
 *Ongoing*
 ##### Nassau Community College
-*Graduated 2021*
+>*Graduated 2021*
 *Associates in Information Technology and Certificate in Cybersecurity*
 
 ---
