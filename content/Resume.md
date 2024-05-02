@@ -23,8 +23,8 @@ title: Resume
 ---
 #### Professional IT Certifications
 ##### CompTIA A+
-> \ *April 2022*
+> *April 2022*
 ##### CompTIA Network+
-> \ *December 2023*
+> *December 2023*
 ##### CompTIA Security+
-> \ *Ongoing*
+>  *Ongoing*
