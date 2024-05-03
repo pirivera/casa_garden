@@ -29,4 +29,4 @@ title: Resume
 ##### CompTIA Security+
 >  *Ongoing*
 
-<img src="https://notes.asterhu.com/pngfind.com-greenery-png-73482.png" alt="Girl in a jacket" width="500" height="600">
+<img src="C:\Users\Casa\quartz\content\Screenshot 2024-05-01 004109.png" alt="Girl in a jacket">
