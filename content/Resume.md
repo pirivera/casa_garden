@@ -29,4 +29,4 @@ title: Resume
 ##### CompTIA Security+
 >  *Ongoing*
 
-<img src="C:\Users\Casa\quartz\content\Screenshot 2024-05-01 004109.png" alt="Girl in a jacket">
+<img src="https://ibb.co/GF4rYqx" alt="Certification Path">
