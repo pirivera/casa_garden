@@ -28,3 +28,5 @@ title: Resume
 > *December 2023*
 ##### CompTIA Security+
 >  *Ongoing*
+
+[[Screenshot 2024-05-01 004109.png]]
