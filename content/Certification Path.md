@@ -1,1 +1,1 @@
-<img src="https://ibb.co/GF4rYqx" alt="Certifaction Path">
+<img src="https://i.ibb.co/8XLQvHK/Screenshot-2024-05-01-004109.png" alt="Certification Path">

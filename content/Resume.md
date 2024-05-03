@@ -28,5 +28,3 @@ title: Resume
 > *December 2023*
 ##### CompTIA Security+
 >  *Ongoing*
-
-<img src="https://ibb.co/GF4rYqx" alt="Certification Path">
