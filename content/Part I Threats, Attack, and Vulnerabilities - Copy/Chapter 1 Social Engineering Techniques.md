@@ -1,5 +1,6 @@
 ---
-draft:
+draft: 
+publish: "false"
 ---
 
 [Objective 1.1] Compare and contrast different types of social engineering techniques
