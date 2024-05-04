@@ -1,3 +1,7 @@
+---
+draft:
+---
+
 [Objective 1.3] Analyze potential indicators associated with application attacks
 ##### Privilege Escalation
 Most attacks begin at a privilege level with an ordinary user
