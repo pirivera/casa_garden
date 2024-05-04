@@ -1,3 +1,7 @@
+---
+filters:pl:
+---
+
 [Objective 2.1] Explain the importance of security concepts in an enterprise environment
 ##### Configuration Management
 Proper configurations are essential in the enterprise. Monitoring and protecting a system from unauthorized configuration changes is important for security.
