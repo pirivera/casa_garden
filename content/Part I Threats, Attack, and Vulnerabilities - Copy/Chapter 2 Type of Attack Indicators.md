@@ -1,5 +1,6 @@
 ---
-draft:
+draft: 
+publish: "false"
 ---
 
 [Objective 1.2] Given a scenario, analyze potential indicators to determine the type of attack
