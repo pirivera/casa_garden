@@ -1,5 +1,5 @@
 ---
 title: Notes
-draft: true
+draft: false
 ---
 e
