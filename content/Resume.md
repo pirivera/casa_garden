@@ -1,5 +1,6 @@
 ---
 title: Resume
+draft: true
 ---
 ### Work Experience
 ---
