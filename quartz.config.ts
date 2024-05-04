@@ -69,6 +69,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.ExplicitPublish(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -84,7 +85,6 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      Plugin.ExplicitPublish(),
     ],
   },
 }
