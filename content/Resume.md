@@ -28,4 +28,4 @@ draft: false
 ##### CompTIA Network+
 > *December 2023*
 ##### CompTIA Security+
->  *Ongoing*
+>  May 2024
